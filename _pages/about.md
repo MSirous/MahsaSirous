@@ -37,5 +37,6 @@ research, hoping to exchange ideas and grow together with everyone!
 - *Jan 2017 – Feb 2018* — Software Engineer, RayaDiar (WOW Global Solutions)
 - *Jul 2014 – Aug 2016* — Back-End Developer (Internship), Tadbir Andishan Karamad
 
+
 ## 📝 Publications
-- "Reinforcement Learning Techniques for Improving Recommender Systems." *Mardin Artuklu Conference*, 2023.
+- (None,but trying my best😇 )
