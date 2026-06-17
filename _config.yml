@@ -24,7 +24,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   name             : "Mahsa Sirous"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Software Engineer · AI Researcher And Machine Learning "
   location         : "Singapore"
   email            : "msirouss@gmail.com"
